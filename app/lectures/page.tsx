@@ -37,7 +37,7 @@ const dummyLectures: Lecture[] = [
       "https://drive.google.com/drive/folders/14QN2sJk9ZolxXNPYMohCSVUimeX9pYdh?usp=drive_link ",
   },
   {
-    id: "1",
+    id: "5",
     title: "PDK Atesting",
     description: "Deep dive into closures, hoisting, and async programming.",
     videoUrl:
