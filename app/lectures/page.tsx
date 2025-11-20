@@ -38,10 +38,17 @@ const dummyLectures: Lecture[] = [
   },
   {
     id: "5",
-    title: "PDK Atesting",
+    title: "Standard Cell",
     description: "Deep dive into closures, hoisting, and async programming.",
     videoUrl:
-      "https://drive.google.com/drive/folders/1Eg_aFAdf4L_y6k2I7ybKnwEypJh0VFuQ",
+      "https://drive.google.com/drive/folders/1SAU-29gUFZwM3In-3NxhQEaJcuUD-BNf",
+  },
+  {
+    id: "6",
+    title: "Finfet",
+    description: "Deep dive into closures, hoisting, and async programming.",
+    videoUrl:
+      "https://we.tl/t-s8KYC5E4cj",
   },
 ];
 
